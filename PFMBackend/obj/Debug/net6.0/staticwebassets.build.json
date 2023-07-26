@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5BOpAfaIHHJfc9Ii1vy/Z8JevnGHcfuWbSxDR3EZkbU=",
+  "Source": "PFMBackend",
+  "BasePath": "_content/PFMBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
